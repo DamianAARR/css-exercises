@@ -1,0 +1,39 @@
+/* Esto es una forma de hacerlo*/
+
+
+/* .black, .yellow {
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman', 'sans-serif' ;
+}
+
+.black {
+    background-color: black;
+    font-weight: bold;
+    color: white;
+}
+
+.yellow {
+    background-color: hsl(60, 100%, 50%);
+
+} */
+
+
+
+
+
+/* Esta es otra forma de hacerlo */
+
+.common {
+    font-size: 24px;
+    font-family: 'Helvetica','Times New Roman', 'sans-serif';
+}
+
+.black {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.yellow {
+    background-color: yellow;
+}
